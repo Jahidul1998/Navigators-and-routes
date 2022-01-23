@@ -1,4 +1,4 @@
-# navigator_route
+# navigator and routes
 
 A new Flutter project.
 
